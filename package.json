@@ -4,7 +4,7 @@
     "homepage": "https://www.gitbook.com",
     "description": "CLI to generate books and documentation using gitbook",
     "main": "bin/gitbook.js",
-    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
     "dependencies": {
         "q": "1.5.0",
         "lodash": "4.17.4",
