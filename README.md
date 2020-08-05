@@ -1,3 +1,6 @@
+# Notice
+I made a fork of this because upstream has abandoned it. https://github.com/GitbookIO/gitbook#%EF%B8%8F-deprecation-warning I'll try to keep it working, but I have no idea what I'm doing.
+
 # gitbook-cli
 
 > The GitBook command line interface.
